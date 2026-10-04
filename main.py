@@ -1,3 +1,4 @@
+print("=== SISTEMA DE CADASTRO DE ALUNOS ===")
 alunos = []
 
 nome = input("Digite o nome do aluno: ")
